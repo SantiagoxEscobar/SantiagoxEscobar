@@ -1,7 +1,6 @@
 ### Hi there, I'm Santiago Escobar👋
 
 I am becoming a university technician in programming/computer systems.
-
 Próximamente voy a añadir algo genial acá.
 Saludos!
 
