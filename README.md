@@ -1,4 +1,9 @@
-### Hi there, I'm Santiago Escobar.👋 
+### Hi there, I'm Santiago Escobar👋
+
+I am becoming a university technician in programming/computer systems.
+
+Próximamente voy a añadir algo genial acá.
+Saludos!
 
 <!--
 **SantiagoxEscobar/SantiagoxEscobar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
