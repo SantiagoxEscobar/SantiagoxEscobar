@@ -1,8 +1,20 @@
-### Hi there, I'm Santiago Escobar👋
+<h1 align="center"><b>### Hi there, I'm Santiago Escobar</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-I am becoming a university technician in programming/computer systems.
-Próximamente voy a añadir algo genial acá.
-Saludos!
+<img align="right" alt="coding" width="400px"     src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2IxYjczNjMxZTE4YTlmMjkxNGVhZGNkY2E2Zjk1NTA4MmNkMGJhNiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
+<br>
+ 
+I am becoming a university technician in programming/computer systems. 🌱 
+ 
+In this profile you can see the personal projects I've been working on.
+Greetings!
+
+<hr><br><br>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href = "mailto: santiago.escobar97@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40"/></a>
+<a href="https://www.linkedin.com/in/santiagoxescobar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="30" width="40" /></a>
+</p>
 
 <!--
 **SantiagoxEscobar/SantiagoxEscobar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
