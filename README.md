@@ -1,6 +1,6 @@
 <h1 align="center"><b>### Hi there, I'm Santiago Escobar</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<img align="right" alt="coding" width="400px"     src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2IxYjczNjMxZTE4YTlmMjkxNGVhZGNkY2E2Zjk1NTA4MmNkMGJhNiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="coding" width="400px" src="https://media.tenor.com/CeDk6XdCgOUAAAAi/develop-web.gif">
 <br>
  
 I am becoming a university technician in programming/computer systems. 🌱 
