@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width="400px" src="https://media.tenor.com/CeDk6XdCgOUAAAAi/develop-web.gif">
 <br>
  
-I am becoming a university technician in programming/computer systems. 🌱 
+I am a technician in programming/computer systems. 🌱 
  
 In this profile you can see the personal projects I've been working on.
 Greetings!
