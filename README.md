@@ -12,7 +12,7 @@ Greetings!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href = "mailto: santiago.escobar97@gmail.com"><img align="center" src="https://static.vecteezy.com/system/resources/previews/042/165/820/non_2x/gmail-icon-transparent-free-png.png" height="30" width="40"/></a>
+<a href = "mailto: santiago.escobar97@gmail.com"><img align="center" src="https://static.vecteezy.com/system/resources/previews/016/716/465/non_2x/gmail-icon-free-png.png" height="30" width="40"/></a>
 <a href="https://www.linkedin.com/in/santiagoxescobar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="30" width="40" /></a>
 </p>
 
